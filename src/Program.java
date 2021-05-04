@@ -25,7 +25,7 @@ public class Program extends JFrame {
     }
 
     public Program()  {
-        super("TIK  TAK TOE");
+        super("TIС TAС TOE");
         this.setBounds(500,300,300,300);
         this.setResizable(false);
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
